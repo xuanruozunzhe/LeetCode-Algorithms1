@@ -1,3 +1,4 @@
+#1.1给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target  ，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
 arr=input("输入一个一维数组，每个数之间使空格隔开：")
 nums=[int(n) for n in arr.split()]#初始化数组,命名为nums
 
