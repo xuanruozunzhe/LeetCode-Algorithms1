@@ -1,4 +1,4 @@
-# Exercise-in-LeetCode1
+# LeetCode-Algorithms1
 二分查找、第一个错误的版本、搜索插入位置
 
 1.1给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target  ，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
